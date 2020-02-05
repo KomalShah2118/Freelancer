@@ -1,1 +1,0 @@
-Route::post('deleteJob/{id}', 'JobController@AdminDeleteJob');

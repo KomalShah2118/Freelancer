@@ -1,0 +1,3 @@
+web.php
+Route::post('deleteJob/{id}', 'JobController@AdminDeleteJob');
+Route::post('deleteSingleUser/{id}', 'UserController@deleteSingle');
